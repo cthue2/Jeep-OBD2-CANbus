@@ -1,0 +1,4 @@
+JEEP Pressure Tire FL		0x22a020		A*92.46/255 
+JEEP Pressure Tire FR		0x22a021		A*92.46/255
+JEEP Pressure Tire RL		0x22a022		A*92.46/255
+JEEP Pressure Tire RR		0x22a023		A*92.46/255
